@@ -1,0 +1,5 @@
+# Add proxies here (one per line)
+# http://user:pass@ip:port or ip:port
+# Example:
+# 127.0.0.1:8080
+# residential proxies recommended

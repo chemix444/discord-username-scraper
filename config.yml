@@ -1,0 +1,38 @@
+# Discord Username Scraper Configuration
+
+# General Settings
+threads: 5                    # Number of concurrent checkers (use with caution)
+min_delay: 0.8                # Minimum delay in seconds between requests
+max_delay: 1.5                # Random delay range upper bound
+max_retries: 3                # Max retries on transient errors
+
+# Username Generation
+default_min_length: 3
+default_max_length: 6
+default_count: 100            # Default number of usernames to generate and check
+
+# Character Sets (for random generation)
+use_letters: true
+use_digits: true
+use_underscore: true
+use_period: true
+
+# Output & Logging
+save_available: true
+save_taken: false
+results_dir: "results"
+log_file: "scraper.log"
+
+# Notifications
+webhook_url: ""               # Discord webhook URL for available hits
+notify_on_available: true
+
+# Advanced
+use_proxies: false
+rotate_user_agents: true
+resume_checks: true
+validate_usernames: true
+
+# Experimental
+use_wordlist: false
+wordlist_path: "wordlist.txt"
