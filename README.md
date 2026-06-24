@@ -108,3 +108,11 @@ This project is provided for **educational and research purposes only**.
 ---
 
 **Note**: This README was recently fixed after an empty push. If you're seeing a blank page, try hard-refreshing (Ctrl+Shift+R) or wait 1-2 minutes for GitHub's CDN to update.
+
+## 🔄 Recent Update
+README content was restored after a previous empty push. The content is now correctly stored on GitHub.
+
+**If the page appears blank:**
+- Hard refresh the GitHub page (Ctrl + Shift + R)
+- Or wait 60 seconds for CDN cache to expire
+- View the raw content directly: https://raw.githubusercontent.com/chemix444/discord-username-scraper/main/README.md
