@@ -104,3 +104,7 @@ This project is provided for **educational and research purposes only**.
 ---
 
 **Made for username hunters** • Use responsibly.
+
+---
+
+**Note**: This README was recently fixed after an empty push. If you're seeing a blank page, try hard-refreshing (Ctrl+Shift+R) or wait 1-2 minutes for GitHub's CDN to update.
