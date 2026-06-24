@@ -116,3 +116,5 @@ README content was restored after a previous empty push. The content is now corr
 - Hard refresh the GitHub page (Ctrl + Shift + R)
 - Or wait 60 seconds for CDN cache to expire
 - View the raw content directly: https://raw.githubusercontent.com/chemix444/discord-username-scraper/main/README.md
+
+<!-- Last updated: 2026-06-24 - Content restored and verified -->
